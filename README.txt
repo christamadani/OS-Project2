@@ -1,0 +1,6 @@
+TO COMPILE:
+javac Main.java
+javac CreateClinic.java
+
+TO EXECUTE:
+java Main #doctors #patients
